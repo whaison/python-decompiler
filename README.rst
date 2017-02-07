@@ -11,8 +11,8 @@ CPythonのバイトコード）。 現時点では、それは比較的不完全
  * else clauses on try/for loops
  * any sort of arithmatic
  * あらゆる種類の arithmatic
- * keyword argument and *args, **kwargs to functions
- *  キーワード引数と* args、**関数へのkwargs
+ * keyword argument and *args, **kwargs to functions
+ * キーワード引数と* args、**関数へのkwargs
 
 私はパッチを取っていますが、少なくともそれらのいくつかは必要と思われます
 リファクタリングと私はあまりにも自分自身を行うために退屈なおかげで成長しました。
