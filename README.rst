@@ -10,7 +10,7 @@ CPythonのバイトコード）。 現時点では、それは比較的不完全
  * try/except/finally
  * else clauses on try/for loops
  * any sort of arithmatic
- *  あらゆる種類の arithmatic
+ * あらゆる種類の arithmatic
  * keyword argument and *args, **kwargs to functions
  *  キーワード引数と* args、**関数へのkwargs
 
