@@ -6,11 +6,11 @@ Pythonデコンパイラ
 CPythonのバイトコード）。 現時点では、それは比較的不完全であり、多くの
 サポートされていないもの（ただしこれに限定されない）：
 
-  *開梱
-  * try / except / finally
-  * try / forループのelse節
-  *あらゆる種類のarithmatic
-  *キーワード引数と* args、**関数へのkwargs
+  *  開梱
+  *  try / except / finally
+  *  try / forループのelse節
+  *  あらゆる種類のarithmatic
+  *  キーワード引数と* args、**関数へのkwargs
 
 私はパッチを取っていますが、少なくともそれらのいくつかは必要と思われます
 リファクタリングと私はあまりにも自分自身を行うために退屈なおかげで成長しました。
